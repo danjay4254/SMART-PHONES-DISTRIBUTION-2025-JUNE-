@@ -10,6 +10,9 @@
 
 The aim of this data analysis is to show the distribution level of smart phone in the market for the year 2025(June).its show the trend of types of phone brands that are sold more, brands with high storage space ,that support 5G and NFC etc and how its determines the prices.
 ---
+
+<img width="902" height="498" alt="Screenshot 2025-10-28 140053" src="https://github.com/user-attachments/assets/64215f8c-0c9d-4d54-baf0-433763eb4096" />
+
 ### DATA SOURCE
 
 The primary dataset used for this analysis is the "smart phone_dataset.csv" flie, containing detailed information about student depression rate by kaggle.com
